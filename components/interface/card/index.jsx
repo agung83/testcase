@@ -29,7 +29,6 @@ const CardBerita = ({ data, title, subtitle }) => {
                                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus non ipsam fugit laudantium fugiat autem quisquam numquam ratione rerum aperiam exercitationem itaque architecto ipsa, iusto praesentium cum fuga quibusdam molestias!
                             </p>
                         </div>
-                        <div className=" bg-white dark:bg-gray-600">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. In amet minus rem itaque placeat error rerum eius numquam sunt pariatur! Exercitationem qui non tempore! Aliquid inventore quos voluptate dolore deserunt?
                             {
                                 data.map((pecah, key) => (
