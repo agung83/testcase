@@ -20,7 +20,11 @@ const CardBerita = ({ data, title, subtitle }) => {
                 <section className="container py-5 bg-white mb-10  rounded-3xl dark:bg-gray-800">
                     <div className=" mx-auto sm:px-6 lg:px-8">
                         <div className="lg:text-center text-center ">
+<<<<<<< master
                             <p className="mt-2 text-2xl leading-5 font-extrabold tracking-tight text-yellow-500  sm:text-4xl dark:text-white">
+=======
+                            <p className="mt-2 text-2xl leading-5 font-extrabold tracking-tight text-green-500  sm:text-4xl dark:text-white">
+>>>>>>> change text to blue
                                 {title}
                             </p>
                             <p className="mt-4 mb-5 max-w-2xl text-xl text-gray-500 lg:mx-auto dark:text-white">
