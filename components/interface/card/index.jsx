@@ -27,7 +27,7 @@ const CardBerita = ({ data, title, subtitle }) => {
                                 {subtitle}
                             </p>
                         </div>
-                        <div className=" bg-white dark:bg-gray-600">
+                        <div className=" bg-pink-500 dark:bg-gray-600">
 
                             {
                                 data.map((pecah, key) => (
