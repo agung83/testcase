@@ -16,7 +16,7 @@ const CardBerita = ({ data, title, subtitle }) => {
 
     return (
         <>
-            <div className="bg-red-500 p-5 rounded-3xl  mb-5 shadow-2xl dark:bg-gray-800">
+            <div className="bg-blue-500 p-5 rounded-3xl  mb-5 shadow-2xl dark:bg-gray-800">
                 <section className="container py-5 bg-white mb-10  rounded-3xl dark:bg-gray-800">
                     <div className=" mx-auto sm:px-6 lg:px-8">
                         <div className="lg:text-center text-center ">
