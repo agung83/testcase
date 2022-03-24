@@ -22,13 +22,15 @@ const CardBerita = ({ data, title, subtitle }) => {
                         <div className="lg:text-center text-center ">
                             <p className="mt-2 text-2xl leading-5 font-extrabold tracking-tight text-yellow-500  sm:text-4xl dark:text-white">
                                 {title}
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, nesciunt? Aut blanditiis nostrum amet laboriosam animi dolorum ex nesciunt. Omnis aspernatur ex recusandae cumque nesciunt quo perspiciatis maxime sequi quia!
                             </p>
                             <p className="mt-4 mb-5 max-w-2xl text-xl text-gray-500 lg:mx-auto dark:text-white">
                                 {subtitle}
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus non ipsam fugit laudantium fugiat autem quisquam numquam ratione rerum aperiam exercitationem itaque architecto ipsa, iusto praesentium cum fuga quibusdam molestias!
                             </p>
                         </div>
                         <div className=" bg-white dark:bg-gray-600">
-
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. In amet minus rem itaque placeat error rerum eius numquam sunt pariatur! Exercitationem qui non tempore! Aliquid inventore quos voluptate dolore deserunt?
                             {
                                 data.map((pecah, key) => (
                                     <article key={key} className="space-y-4 shadow-xl dark:bg-gray-700 bg-white py-4 px-3 md:py-10 lg:py-10 md:px-5 lg:px5  border border-gray-200 dark:border-blue-400">
