@@ -75,6 +75,7 @@ const CardBerita = ({ data, title, subtitle }) => {
                 </div>
                 <a href={detailBerita.url} target="_blank" className="md:text-xl lg:text-xl text-sm text-blue-500">
                     Lihat Sumber Informasi
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde quisquam harum recusandae saepe hic nemo vitae nesciunt eligendi amet reiciendis ab placeat, accusamus repudiandae totam rerum illum aperiam suscipit veritatis.
                 </a>
                 <div className="mt-7">
                     <button
@@ -82,7 +83,7 @@ const CardBerita = ({ data, title, subtitle }) => {
                         className="inline-flex justify-center px-4 py-2 md:text-xl lg:text-xl text-sm font-medium text-blue-900 bg-blue-100 border border-transparent rounded-md hover:bg-blue-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-blue-500"
                         onClick={closeModal}
                     >
-                        Tutup
+                        close
                     </button>
                 </div>
             </Modal>
